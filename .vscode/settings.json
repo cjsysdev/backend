@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "application\\core": true,
+    "application/cache": true,
+    "application/helpers": true,
+    "application/hooks": true,
+    "application/language": true,
+    "application/third_party": true,
+    "application\\libraries": true,
+    "application\\logs": true,
+    "frontend\\node_modules": true,
+    "license.txt": true,
+    "readme.rst": true
+  }
+}
